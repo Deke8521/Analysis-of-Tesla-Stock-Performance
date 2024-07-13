@@ -1,1 +1,2 @@
 # Analysis-of-Tesla-Stock-Performance
+This report is an analysis of Tesla's stock performance utilising a  comprehensive dataset spanning from 2014 to 2023. This dataset encapsulates daily metrics such as opening and closing prices, trading volumes, and other technical indicators including Relative Strength Index (RSI), Moving Averages Convergence Divergence (MACD), and Average True Range (ATR) to analyse its movements.
